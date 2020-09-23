@@ -1,0 +1,13 @@
+12
+Programming and Graphics: Jordan Owen
+E-Mail: jwoair23@yahoo.com
+Website: http://www.friedcircuits.com
+Age: 16
+Country: United States
+
+I made Brix 2000 in order to become more 
+familiar with Visual Basic. While in the
+process of this, I hope I created a fun
+game for everyone to enjoy!
+
+Please email any comments or questions!
